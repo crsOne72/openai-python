@@ -1,0 +1,48 @@
+{
+  "_base": "https://example.com/house-pack/",
+
+  "kick": [
+    "drums/kick_01.wav",
+    "drums/kick_909.wav"
+  ],
+
+  "snare": [
+    "drums/snare_01.wav",
+    "drums/snare_clap.wav"
+  ],
+
+  "hatClosed": [
+    "drums/hh_closed_01.wav",
+    "drums/hh_closed_909.wav"
+  ],
+
+  "hatOpen": [
+    "drums/hh_open_01.wav"
+  ],
+
+  "clap": [
+    "drums/clap_01.wav",
+    "drums/clap_909.wav"
+  ],
+
+  "perc": [
+    "drums/perc_wood_01.wav",
+    "drums/perc_shaker_01.wav"
+  ],
+
+  "bass": {
+    "c2": "bass/bass_c2.wav",
+    "e2": "bass/bass_e2.wav",
+    "g2": "bass/bass_g2.wav"
+  },
+
+  "stab": [
+    "chords/stab_cmin9.wav",
+    "chords/stab_fmin9.wav"
+  ],
+
+  "pad": [
+    "pads/pad_cmin.wav",
+    "pads/pad_gmin.wav"
+  ]
+}
